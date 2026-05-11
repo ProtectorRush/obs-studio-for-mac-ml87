@@ -1,4 +1,4 @@
-
+Enhance OBS Studio for macOS with secure OBS Studio for macOS Transition | batch-rendering + 4K-export, the #1 transition. Includes batch-rendering and 4K-export for a smoother
 
 
 
